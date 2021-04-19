@@ -1,20 +1,11 @@
 MQQBrowser/26Mozilla/5.0(Linux;U;Android2.3.7;zh-cn;MB200Build/GRJ22;CyanogenMod-7)AppleWebKit/533.1(KHTML,likeGecko)Version/4.0MobileSafari/533.1
 Mozilla/5.0(Linux;U;Android2.2.1;zh-cn;HTC_Wildfire_A3333Build/FRG83D)AppleWebKit/533.1(KHTML,likeGecko)Version/4.0MobileSafari/533.1
 
-compile ‘net.zetetic:android-database-sqlcipher:3.5.2’
-【开发部】
-1.类型：WMS管理下载页面，新增多下载链接
-2.修改路径：
-3.素材路径：无
-4.描述说明：可参考下方描述
-5. 字形: 简体中文
 
-需求描述
-AGQJ APP下载前端跳转落地页之前需要判断该域名是否能正常访问|
-这边将提供四个下载域名，分别是：
-https://www.appgameagqj.com(主用)
-https://www.agqjgameapp.com（备用）
-https://www.appagqj.net（备用）
-https://www.agcpapp.com（备用）
-通过验证文件路径，/webnew/favicon.ico 返回正常即跳转到对应域名
-否则继续验证其他在列表里的域名
+Git Pull Failed
+			Error: Could not create the Java Virtual Machine.
+			Error: A fatal exception has occurred. Program will exit.
+			unable to read askpass response from 'C:\Users\Paul\.AndroidStudio4.0\system\tmp\intellij-git-askpass.sh'
+			bash: /dev/tty: No such device or address
+			failed to execute prompt script (exit code 1)
+			could not read Username for 'http://10.91.37.26': No such file or directory
