@@ -1,2 +1,3 @@
         Class<T> tClass = (Class<T>)((ParameterizedType)getClass().getGenericSuperclass()).getActualTypeArguments()[0];
-/data/local/tcpdump -i any -p -s 0 -w /sdcard/capture.pcap
+/data/local/tcpdump -i any -p -s 0 -w /sdcard/capture.pcap(tcp)
+adb shell tcpdump -X -n -s 0 port 80(http)
