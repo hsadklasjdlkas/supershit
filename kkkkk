@@ -1,1 +1,2 @@
         Class<T> tClass = (Class<T>)((ParameterizedType)getClass().getGenericSuperclass()).getActualTypeArguments()[0];
+/data/local/tcpdump -i any -p -s 0 -w /sdcard/capture.pcap
