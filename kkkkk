@@ -2,3 +2,4 @@
 /data/local/tcpdump -i any -p -s 0 -w /sdcard/capture.pcap(tcp)
 adb shell tcpdump -X -n -s 0 port 80(http)
 https://1.as.dl.wireshark.org/win64/Wireshark-win64-3.4.5.exe
+https://e04-01.cdnp1.com/mobile/E04/h5app.json
