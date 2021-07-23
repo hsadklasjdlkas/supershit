@@ -3,3 +3,4 @@
 adb shell tcpdump -X -n -s 0 port 80(http)
 https://1.as.dl.wireshark.org/win64/Wireshark-win64-3.4.5.exe
 https://e04-01.cdnp1.com/mobile/E04/h5app.json
+https://hj-a.xibuly.com/app/android/upgrade/app-release.apk
